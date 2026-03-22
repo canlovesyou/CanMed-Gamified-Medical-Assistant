@@ -16,6 +16,7 @@
 * **💾 Yerel Kayıt Sistemi:** İnternet gerektirmez! Tüm ilerlemen (`SharedPreferences` kullanılarak) cihazında güvenle ve kalıcı olarak saklanır.
 * **🎨 8-Bit Retro Tasarım:** Nostaljik renk paleti, monospace fontlar ve pikselli arayüz ile benzersiz bir kullanıcı deneyimi.
 
+<img width="250" height="250" alt="logo" src="https://github.com/user-attachments/assets/cf75b00c-641c-4dec-b3d9-f872f395c5b2" />
 
 
 ## 🛠️ Kullanılan Teknolojiler
